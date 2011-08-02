@@ -1,8 +1,14 @@
+mongodb (1.6.5ubuntu1) lucid; urgency=low
+
+  * Lucid build
+
+ -- Jonas Pfenniger <jonas@pfenniger.name>  Tue, 02 Aug 2011 05:06:59 -0700
+
 mongodb (1.6.5) unstable; urgency=low
 
   * full change log http://jira.mongodb.org/browse/SERVER/fixforversion/10207
 
-  -- Richard Kreuter <richard@10gen.com>  Tue, 7 Dec 2010 16:56:28 -0500
+ -- Richard Kreuter <richard@10gen.com>  Tue, 7 Dec 2010 16:56:28 -0500
 
 mongodb (1.6.4) unstable; urgency=low
 
@@ -10,7 +16,7 @@ mongodb (1.6.4) unstable; urgency=low
   * sharding chunk safety, yielding during migrate cleanup
   * full change log http://jira.mongodb.org/browse/SERVER/fixforversion/10191
 
-  -- Richard Kreuter <richard@10gen.com>  Tue, 26 Oct 2010 16:56:28 -0500
+ -- Richard Kreuter <richard@10gen.com>  Tue, 26 Oct 2010 16:56:28 -0500
 
 mongodb (1.6.3) unstable; urgency=low
 
@@ -18,7 +24,7 @@ mongodb (1.6.3) unstable; urgency=low
   * sharding optimization for larger than ram data sets
   * full change log http://jira.mongodb.org/browse/SERVER/fixforversion/10190
 
-  -- Richard Kreuter <richard@10gen.com>  Thu, 23 Sep 2010 16:56:28 -0500
+ -- Richard Kreuter <richard@10gen.com>  Thu, 23 Sep 2010 16:56:28 -0500
 
 mongodb (1.6.2) unstable; urgency=low
 
@@ -26,7 +32,7 @@ mongodb (1.6.2) unstable; urgency=low
   * sharding some fixes with rs
   * full change log http://jira.mongodb.org/browse/SERVER/fixforversion/10187
 
-  -- Richard Kreuter <richard@10gen.com>  Wed, 1 Sep 2010 16:56:28 -0500
+ -- Richard Kreuter <richard@10gen.com>  Wed, 1 Sep 2010 16:56:28 -0500
 
 
 mongodb (1.6.1) unstable; urgency=low
@@ -35,21 +41,21 @@ mongodb (1.6.1) unstable; urgency=low
   * sharding some fixes with rs
   * full change log http://jira.mongodb.org/browse/SERVER/fixforversion/10183
 
-  -- Richard Kreuter <richard@10gen.com>  Tue, 17 Aug 2010 16:56:28 -0500
+ -- Richard Kreuter <richard@10gen.com>  Tue, 17 Aug 2010 16:56:28 -0500
 
 mongodb (1.6.0) unstable; urgency=low
 
   * sharding stable
   * replica_sets stable
 
-  -- Richard Kreuter <richard@10gen.com>  Thu, 05 Aug 2010 16:56:28 -0500
+ -- Richard Kreuter <richard@10gen.com>  Thu, 05 Aug 2010 16:56:28 -0500
 
 mongodb (1.5.8) unstable; urgency=low
 
   * sharding lots of changes
   * replica_sets lots of changes
 
-  -- Richard Kreuter <richard@10gen.com>  Tue, 03 Aug 2010 16:56:28 -0500
+ -- Richard Kreuter <richard@10gen.com>  Tue, 03 Aug 2010 16:56:28 -0500
 
 mongodb (1.5.7) unstable; urgency=low
 
